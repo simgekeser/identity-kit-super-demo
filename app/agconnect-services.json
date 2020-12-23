@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000026360265",
+		"product_id":"736430079244740407",
+		"client_id":"517189063967519360",
+		"client_secret":"F00514A4E83C086290F2CD09B4379D902C7A28DAD476B2F8B49E872BD1DE01B1",
+		"project_id":"736430079244740407",
+		"app_id":"103483059",
+		"api_key":"CgB6e3x9SJiJ/xmeHMpsmNQ+nHDhBZzRfBWrTxhslxm+o+VFb4Juzp9MfZGPqSOXjymVhbCO25hHp/1fCjYqODE/",
+		"package_name":"com.simge.identitykitsuperdemo"
+	},
+	"configuration_version":"1.0"
+}
